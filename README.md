@@ -13,11 +13,13 @@ I’m an Electronics and Communication Engineering graduate driven by a strong p
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-%23007ACC.svg?style=flat)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+
 ![Linux Internals](https://img.shields.io/badge/Linux_Internals-%23000000.svg?style=flat&logo=linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23000000.svg?style=flat&logo=linux&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
