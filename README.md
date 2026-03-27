@@ -29,19 +29,6 @@ I’m an Electronics and Communication Engineering graduate driven by a strong p
 ## 📊 Profile Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronymat&theme=github_dark)
 
-# 📊 GitHub Overview
-
-## 🔥 Stats & Languages
-![](https://github-readme-stats.vercel.app/api?username=ronymat&show_icons=true&theme=transparent&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronymat&layout=compact&theme=transparent&hide_border=true)
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronymat&theme=github-compact&hide_border=true" width="95%">
-</p>
-
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
