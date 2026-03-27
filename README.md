@@ -3,8 +3,11 @@ I’m an Electronics and Communication Engineering graduate driven by a strong p
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rony_mathew_?igsh=MWpsanlpNmRsNGU4dg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rony-emb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronymathew321@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_rony_mathew_/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rony-emb)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ronymathew321@gmail.com)
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-%23007ACC.svg?style=flat)
