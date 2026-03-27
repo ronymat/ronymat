@@ -42,20 +42,6 @@ I’m an Electronics and Communication Engineering graduate driven by a strong p
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronymat&theme=github-compact&hide_border=true" width="95%">
 </p>
 
----
-
-## 📊 Contribution Streak
-![](https://nirzak-streak-stats.vercel.app/?user=ronymat&theme=transparent&hide_border=true)
-
----
-
-## 📊 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronymat&theme=github_dark)
-
----
-
-## 📅 Contribution Calendar
-![](https://ghchart.rshah.org/ronymat)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
