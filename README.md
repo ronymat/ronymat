@@ -23,12 +23,11 @@ I’m an Electronics and Communication Engineering graduate driven by a strong p
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-## 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=ronymat&theme=github-compact&hide_border=true)
-
 ## 📊 Profile Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronymat&theme=github_dark)
 
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=ronymat&theme=github-compact&hide_border=true)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
