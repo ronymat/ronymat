@@ -29,6 +29,9 @@ I’m an Electronics and Communication Engineering graduate driven by a strong p
 ## 📊 Profile Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronymat&theme=github_dark)
 
+## 🐍 Contribution Snake
+![](https://github.com/ronymat/ronymat/blob/output/github-contribution-grid-snake.svg)
+
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
